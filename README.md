@@ -20,6 +20,10 @@
     [QAS/PMI Certified-Introduction to Business Analytics - LinkedIn Learning](https://www.linkedin.com/learning/introduction-to-business-analytics-2020/empower-your-business-through-analytics?u=74653650)
 
 
+- My Projects
+  
+     [Analysis of Used Cars Dataset](https://github.com/sarangpadhye97/Carvana_IsBadBuy)
+
 
 <!--- 
 sarangpadhye97/sarangpadhye97 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
