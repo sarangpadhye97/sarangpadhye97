@@ -1,13 +1,11 @@
 - 👋 Hi, I’m Sarang Padhye
 - 👀 I’m interested in Data, Cloud and CyberSecurity
 - 🌱 I’m currently learning
-     Business Analytics, Data Analytics, Machine Learning, Business Strategy and Decision Making @ Northeastern
+     Business and Data Analytics, Machine Learning, Business Strategy and Decision Making @ Northeastern
 - 💞️ I’m looking to collaborate on Analytics and Data Engineering Projects
 - 📫 How to reach me
   
-     Twitter [@sarangnocolours](https://twitter.com/sarangnocolours)
-
-     LinkedIn [@spadhye97](https://www.linkedin.com/in/spadhye97/)
+     Twitter [@sarangnocolours](https://twitter.com/sarangnocolours) | LinkedIn [@spadhye97](https://www.linkedin.com/in/spadhye97/)
 
 - My Certifications and Courses
 
